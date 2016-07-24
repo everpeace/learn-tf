@@ -98,5 +98,6 @@ ENV/
 .ipynb_checkpoints/
 
 
-## Tensorflow installation check
+## Tensorflow example/tutorials
 /data
+MNIST_data
